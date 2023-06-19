@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language LANG="english" ID="1">
+	<!-- Menus -->
+	<text key="Start">Start</text>
+	<text key="Quit">Quit</text>
+	<text key="Resume">Resume</text>
+	<text key="Back">Back</text>
+	<text key="DE">DE</text>
+	<text key="EN">EN</text>
+	<text key="FA">FA</text>
+
+	<!-- HUD -->
+	<text key="Title">The dressing change</text>
+	<text key="ErrorCount">Error count: </text>
+	<text key="Heading_workSequence0_00">Preparation</text>
+	<text key="Heading_workSequence6_00">Arrangement material</text>
+	<text key="Heading_workSequence10_00">Preparation material</text>
+	<text key="Heading_workSequence14_00">Preparation patient</text>
+	<text key="Heading_workSequence19_00">woundtreatment</text>
+	<text key="Heading_workSequence27_00">Postprocessing bed</text>
+	<text key="Heading_workSequence32_00">Postprocessing work surface</text>
+	<text key="Heading_workSequence38_00">Postprocessing</text>
+	<!-- Prep Workspace & Materials -->
+	<text key="workSequence0">Disinfect hands</text>
+	<text key="workSequence1">Put on non-sterile gloves</text>
+	<text key="workSequence2">Raise the bed to working height</text>
+	<text key="workSequence3">Disinfect the surfaces of the first aid trolley with a disinfectant wipe</text>
+	<text key="workSequence4">Disinfect the surfaces of the first aid trolley with a disinfectant wipe</text>
+	<text key="workSequence104">Discard the disinfectant wipe in the trash can</text>
+	<text key="workSequence5">Remove gloves and throw in trash can</text>
+	<text key="workSequence6">Disinfect hands</text>
+	<text key="workSequence7">Tie on a disposable apron</text>
+	<text key="workSequence8">Arrange the required material on the work surface</text>
+	<text key="workSequence9">Arrange the required material on the work surface</text>
+	<text key="workSequence10">Open material using peel-off technique</text>
+	<text key="workSequence11">Cut fixation material according to the size of the wound</text>
+	<text key="workSequence12">Soak swabs with wound disinfectant</text>
+	<text key="workSequence13">Place the discard shell near the wound</text>
+	<!-- Prep Patient -->
+	<text key="workSequence14">Disinfect hands</text>
+	<text key="workSequence15">Put on non-sterile gloves</text>
+	<text key="workSequence16">Put cellulose under your arm</text>
+	<text key="workSequence17">Remove old dressing material and discard in the discard tray</text>
+	<text key="workSequence18">Remove gloves and throw in trash can</text>
+	<text key="workSequence19">Disinfect hands</text>
+	<!-- Wound Treatment-->
+	<text key="workSequence20">Evaluate wound</text>
+	<text key="workSequence21">Put on non-sterile gloves</text>
+	<text key="workSequence22">Remove the sterile tweezers from the packaging</text>
+	<text key="workSequence23">Clean the wound with tweezers and swabs using the "non-touch" method</text>
+	<text key="workSequence24">Drop tweezers into the safebox</text>
+	<text key="workSequence25">Remove the dry, sterile compress from the packaging and place it on the wound using the "non-touch" method</text>
+	<text key="workSequence26">Secure compress with fixing material</text>
+	<text key="workSequence27">Remove dish and cellulose and discard in trash can</text>"
+	<text key="workSequence28">Remove gloves and throw in trash can</text>
+	<text key="workSequence29">Disinfect hands</text>
+	<!-- Post Processing -->
+	<text key="workSequence30">Put on non-sterile gloves</text>
+	<text key="workSequence31">Lower Bed</text>
+	<text key="workSequence32">Clean up the work surface</text>
+	<text key="workSequence33">Clean up the work surface</text>
+	<text key="workSequence34">Disinfect the surfaces of the first aid trolley with a disinfectant wipe</text>
+	<text key="workSequence35">Disinfect the surfaces of the first aid trolley with a disinfectant wipe</text>
+	<text key="workSequence36">Discard the disinfectant wipe in the trash can</text>
+	<text key="workSequence37">Remove gloves and throw in trash can</text>
+	<text key="workSequence38">Take off the disposable apron and throw it in the trash can</text>
+	<text key="workSequence39">Disinfect hands</text>
+	<text key="workSequence139">Close garbage bags and dispose of them outside the room</text>
+	<text key="workSequence40">Renew garbage bags</text>
+	<text key="workSequence41">Document the dressing change and the condition of the wound</text>
+
+	<!-- Errors-->
+	<text key="Error">Wrong object</text>
+	<text key="ErrorPlace">Wrong place</text>
+
+	<!-- Take Objects -->
+	<text key="MountApron">Put on a disposable apron</text>
+	<text key="TakeGloves">Put on non-sterile gloves</text>
+	<text key="TakeDish">Take the dish</text>
+	<text key="TakeCellulose">Take cellulose</text>
+	<text key="TakeDishCellulose">Take dish and cellulose</text>
+	<text key="TakeOldDressing">Remove old dressing</text>
+	<text key="TakeSwab">Take swab</text>
+	<text key="TakeCompress">Take compress</text>
+	<text key="TakeFixation">Take fixation</text>
+	<text key="TakeFixationTape">Take fixation tape</text>
+	<text key="TakeScissors">Take scissors</text>
+	<text key="TakeTweezer">Take tweezer</text>
+	<text key="TakeWoundDesinfectant">Take wound disinfectant</text>
+	<text key="TakePlaneDesinfectant">Take plane disinfectant</text>
+	<text key="TakeMask">Take mask</text>
+	<text key="TakeSafebox">Take safebox</text>
+	<text key="TakeOldPack">take old package</text>
+	<text key="TakeSwabTweezer">Take swab with tweezers</text>
+
+	<!-- Lay Objects -->
+	<text key="LayDish">Lay dish</text>
+	<text key="LayCellulose">Lay cellulose</text>
+	<text key="LayDishCellulose">Lay dish and cellulose</text>
+	<text key="LaySwab">Lay swab</text>
+	<text key="LayCompress">Lay compress</text>
+	<text key="LayFixation">Lay fixation</text>
+	<text key="LayFixationTape">Lay fixation tape</text>
+	<text key="LayScissors">Lay scissors</text>
+	<text key="LayTweezer">Lay tweezer</text>
+	<text key="LayWoundDisinfectant">Lay wound disinfectant</text>
+	<text key="LayMask">Lay mask</text>
+	<text key="LaySafebox">Lay safebox</text>
+	<text key="LayOldDressing">Lay old dressing</text>
+
+	<!-- Throw Away -->
+	<text key="ThrowApron">Discard disposable apron</text>
+	<text key="ThrowGloves">Discard gloves</text>
+	<text key="ThrowCellulose">Discard cellulose</text>
+	<text key="ThrowDish">Discard dish</text>
+	<text key="ThrowOldDressing">Discard old dressing</text>
+	<text key="ThrowSwab">Discard swab</text>
+	<text key="ThrowCompress">Discard compress</text>
+	<text key="ThrowFixation">Discard fixation</text>
+	<text key="ThrowFixationTape">Discard fixation tape</text>
+	<text key="ThrowScissors">Discard scissors</text>
+	<text key="ThrowTweezer">Discard tweezer</text>
+	<text key="ThrowWoundDesinfectant">Discard wound disinfectant</text>
+	<text key="ThrowPlaneDesinfectant">Discard tissue</text>
+	<text key="ThrowMask">Discard mask</text>
+	<text key="ThrowSafebox">Discard safebox</text>
+	<text key="ThrowOldPack">Discard old package</text>
+
+	<text key="SecureScissors">Discard scissors safely</text>
+	<text key="SecureTweezer">Discard tweezers safely</text>
+
+	<!-- Open Packs -->
+	<text key="OpenSwab">Open swab</text>
+	<text key="OpenCompress">Open compress</text>
+	<text key="OpenTweezer">Open tweezer</text>
+	<text key="OpenScissors">Open scissors</text>
+
+	<!-- Special -->
+	<text key="DesinfectHands">Disinfect hands</text>
+	<text key="OpenDoors">Open</text>
+	<text key="CloseDoors">Close</text>
+	<text key="Rubbish">Dispose of garbage bags</text>
+	<text key="Wound">The wound is irritationless</text>
+	<text key="SaturateSwab">Saturate swabs with disinfectant</text>
+	<text key="DesinfectPlane">disinfect surface</text>
+	<text key="RegroupItems">Arrange material</text>
+	<text key="CutTape">Cut fixation tape</text>
+	<text key="PlaceTape">Fix compress with tape</text>
+	<text key="placeCompressWound">Put compress on wound</text>
+	<text key="BedUp">Raise bed</text>
+	<text key="BedDown">Lower bed</text>
+	<text key="PlaceCelluloseArm">Put cellulose under your arm</text>
+	<text key="cleanWound">Clean wound</text>
+	<text key="Documentation">Document the condition of the wound</text>
+	<text key="DisposeRubbish">Discard trash bags and gloves</text>
+	<text key="PlaceBag">Insert a new garbage bag</text>
+
+	<!-- DEFAULT -->
+	<text key="Throw">Discard</text>
+
+</Language>

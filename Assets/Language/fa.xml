@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language LANG="farsi" ID="2">
+  <!-- Menus -->
+  <text key="Start">Start</text>
+  <text key="Quit">Quit</text>
+  <text key="Resume">Resume</text>
+  <text key="Back">Back</text>
+  <text key="DE">DE</text>
+  <text key="EN">EN</text>
+  <text key="FA">FA</text>
+
+  <!-- HUD -->
+  <text key="Title">Change the Dressing</text>
+  <text key="ErrCount">Mistakes: </text>
+  <text key="Heading1">Preparation workspace and materials</text>
+  <text key="Heading2">Prepare the patient</text>
+  <text key="Heading3">Wound treatment</text>
+  <text key="Heading4">Postprocessing</text>
+  <text key="Heading5">Process finished</text>
+  <!-- Prep Workspace & Materials -->
+  <text key="Workstep1">Hände desinfizieren</text>
+  <text key="Workstep2">Unsterile Handschuhe anziehen</text>
+  <text key="Workstep3">Bett auf Arbeitshöhe bringen</text>
+  <text key="Workstep4">Flächen des Verbandswagens mit Desinfektionstuch desinfizieren</text>
+  <text key="Workstep5">Desinfektionstuch im Mülleimer abwerfen</text>
+  <text key="Workstep6">Handschuhe ausziehen und im Mülleimer abwerfen</text>
+  <text key="Workstep7">Hände desinfizieren</text>
+  <text key="Workstep8">Einmalschürze umbinden</text>
+  <text key="Workstep9">Benötigtes Material auf der Arbeitsfläche anordnen</text>
+  <text key="Workstep10">Material anhand von Peel-Off-Technik öffnen</text>
+  <text key="Workstep11">Fixiermaterial/Pflaster je nach Wundgröße zuschneiden</text>
+  <text key="Workstep12">Schere in den Sicherheitsabwurfbehälter werfen</text>
+  <text key="Workstep13">Kugeltupfer mit Wunddesinfektionsmittel tränken</text>
+  <text key="Workstep14">Abwurfschale in der Nähe des Wunde ablegen</text>
+  <!-- Prep Patient -->
+  <text key="Workstep15">Hände desinfizieren</text>
+  <text key="Workstep16">Unsterile Handschuhe anziehen</text>
+  <text key="Workstep17">Zellstoff unter den Arm legen</text>
+  <text key="Workstep18">Altes Verbandmaterial entfernen und in der Abwurfschale abwerfen</text>
+  <text key="Workstep19">Handschuhe ausziehen und im Mülleimer abwerfen</text>
+  <text key="Workstep20">Hände desinfizieren</text>
+  <!-- Wound Treatment-->
+  <text key="Workstep21">Wunde einschätzen</text>
+  <text key="Workstep22">Unsterile Handschuhe anziehen</text>
+  <text key="Workstep23">Sterile Pinzette aus der Verpackung entnehmen</text>
+  <text key="Workstep24">Wunde mit Pinzette und Kugeltupfern im "non-touch"-Verfahren reinigen</text>
+  <text key="Workstep25">Gebrauchte Kugeltupfer in der Abwurfschale abwerfen</text>
+  <text key="Workstep26">Pinzette in den Sicherheitsabwurfbehälter abwerfen</text>
+  <text key="Workstep27">Trockene, sterile Kompresse aus der Verpackung entnehmen und im "non-touch"-Verfahren auf die Wunde legen</text>
+  <text key="Workstep28">Kompresse mit Fixiermaterial/Pflaster fixieren</text>
+  <text key="Workstep29">Abwurfschale und Zellstoff entfernen und im Mülleimer abwerfen</text>"
+  <text key="Workstep30">Handschuhe ausziehen und im Mülleimer abwerfen</text>
+  <text key="Workstep31">Hände desinfizieren</text>
+  <!-- Post Processing -->
+  <text key="Workstep32">Unsterile Handschuhe anziehen</text>
+  <text key="Workstep33">Bett herunterfahren</text>
+  <text key="Workstep34">Arbeitsfläche aufräumen</text>
+  <text key="Workstep35">Flächen des Verbandswagens mit Desinfektionstuch desinfizieren</text>
+  <text key="Workstep36">Desinfektionstuch im Mülleimer abwerfen</text>
+  <text key="Workstep37">Einmalschürze ausziehen und in den Mülleimer abwerfen</text>
+  <text key="Workstep38">Müllbeutel verschließen und außerhalb des Zimmers entsorgen</text>
+  <text key="Workstep39">Hände desinfizieren</text>
+  <text key="Workstep40">Müllbeutel erneuern</text>
+  <text key="Workstep41">Verbandswechsel und Zustand der Wunde dokumentieren</text>
+  <text key="Workstep42"> </text>
+
+  <!-- Errors-->
+  <text key="Error">Falsches Objekt</text>
+
+  <!-- Take Objects -->
+  <text key="MountApron">Einmalschürze anlegen</text>
+  <text key="TakeGloves">Unsterile Handschuhe anziehen</text>
+  <text key="TakeDish">Abwurfschale nehmen</text>
+  <text key="TakeCellulose">Zellstoff nehmen</text>
+  <text key="TakeDishCellulose">Abwurfschale und Zellstoff nehmen</text>
+  <text key="TakeOldDressing">Alten Verband entfernen</text>
+  <text key="TakeSwab">Kugeltupfer nehmen</text>
+  <text key="TakeCompress">Kompresse nehmen</text>
+  <text key="TakeFixation">Fixiermaterial nehmen</text>
+  <text key="TakeFixationTape">Pflaster nehmen</text>
+  <text key="TakeScissors">Schere nehmen</text>
+  <text key="TakeTweezer">Pinzette nehmen</text>
+  <text key="TakeWoundDesinfectant">Wunddesinfektionsmittel nehmen</text>
+  <text key="TakePlaneDesinfectant">Flächendesinfektionstuch nehmen</text>
+  <text key="TakeMask">Mundschutz nehmen</text>
+  <text key="TakeSafebox">Sicherheitsabwurfbehälter nehmen</text>
+  <text key="TakeOldPack">Verpackung nehmen</text>
+  <text key="TakeSwabTweezer">Tupfer mit Pinzette nehmen</text>
+
+  <!-- Lay Objects -->
+  <text key="LayDish">Abwurfschale ablegen</text>
+  <text key="LayCellulose">Zellstoff ablegen</text>
+  <text key="LayDishCellulose">Abwurfschale und Zellstoff ablegen</text>
+  <text key="LaySwab">Kugeltupfer ablegen</text>
+  <text key="LayCompress">Kompresse ablegen</text>
+  <text key="LayFixation">Fixiermaterial ablegen</text>
+  <text key="LayFixationTape">Pflaster ablegen</text>
+  <text key="LayScissors">Schere ablegen</text>
+  <text key="LayTweezer">Pinzette ablegen</text>
+  <text key="LayWoundDesinfectant">Wunddesinfektionsmittel ablegen</text>
+  <text key="LayMask">Mundschutz ablegen</text>
+  <text key="LaySafebox">Sicherheitsabwurfbehälter ablegen</text>
+  <text key="LayOldDressing">Alten Verband ablegen</text>
+
+  <!-- Throw Away -->
+  <text key="ThrowApron">Einmalschürze abwerfen</text>
+  <text key="ThrowGloves">Handschuhe abwerfen</text>
+  <text key="ThrowCellulose">Zellstoff abwerfen</text>
+  <text key="ThrowDish">Abwurfschale abwerfen</text>
+  <text key="ThrowOldDressing">Alten Verband abwerfen</text>
+  <text key="ThrowSwab">Tupfer abwerfen</text>
+  <text key="ThrowCompress">Kompresse abwerfen</text>
+  <text key="ThrowFixation">Fixiermaterial abwerfen</text>
+  <text key="ThrowFixationTape">Pflaster abwerfen</text>
+  <text key="ThrowScissors">Schere abwersfen</text>
+  <text key="ThrowTweezer">Pinzette abwerfen</text>
+  <text key="ThrowWoundDesinfectant">Wunddesinfektionsmittel abwerfen</text>
+  <text key="ThrowPlaneDesinfectant">Tuch abwerfen</text>
+  <text key="ThrowMask">Mundschutz abwerfen</text>
+  <text key="ThrowSafebox">Sicherheitsabwurfbehälter abwerfen</text>
+  <text key="ThrowOldPack">Verpackung abwerfen</text>
+
+  <text key="SecureScissors">Schere sicher abwerfen</text>
+  <text key="SecureTweezer">Pinzette sicher abwerfen</text>
+
+  <!-- Open Packs -->
+  <text key="OpenSwab">Kugeltupfer öffnen</text>
+  <text key="OpenCompress">Kugeltupfer öffnen</text>
+  <text key="OpenTweezer">Kugeltupfer öffnen</text>
+  <text key="OpenScissors">Kugeltupfer öffnen</text>
+
+  <!-- Special -->
+  <text key="DesinfectHands">Hände desinfizieren</text>
+  <text key="OpenDoors">Öffnen</text>
+  <text key="CloseDoors">Schließen</text>
+  <text key="Rubbish">Müllbeutel entsorgen</text>
+  <text key="Wound">Die Wunde ist reizlos</text>
+  <text key="SaturateSwab">Tupfer mit Desinfektionsmittel tränken</text>
+  <text key="DesinfectPlane">Fläche desinfizieren</text>
+  <text key="CutTape">Pflaster zuschneiden</text>
+  <text key="PlaceTape">Kompresse mit Pflaster fixieren</text>
+  <text key="placeCompressWound">Kompresse auf Wunde legen</text>
+  <text key="BedUp">Bett hochstellen</text>
+  <text key="BedDown">Bett runterstellen</text>
+  <text key="PlaceCelluloseArm">Zellstoff unter Arm legen</text>
+  <text key="cleanWound">Wunde reinigen</text>
+  <text key="Documentation">Zustand der Wunde dokumentieren</text>
+  <text key="DisposeRubbish">Müllbeutel und Handschuhe entsorgen</text>
+  <text key="PlaceBag">Neuen Müllbeutel einlegen</text>
+
+  <!-- DEFAULT -->
+  <text key="Throw">Abwerfen</text>
+
+</Language>
